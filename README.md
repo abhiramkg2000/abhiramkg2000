@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abhiram KG
-- 👀 I’m interested in Web Designing
-- 🌱 I’m a 3rd year computer science student 
+- 👀 I’m a 3rd year computer science student
+- 🌱 I’m interested in Web Development 
 - 💞️ I’m looking to collaborate on Web application projects
 - 📫 contact me on linkedin https://www.linkedin.com/in/abhiram-kg-581084206
 
