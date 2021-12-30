@@ -2,7 +2,7 @@
 <h3 align="center">Learning Frontend Development</h3>
 
 <p align="center"><img src="https://user-images.githubusercontent.com/48902030/126148083-0fabab90-9864-4287-8e41-f3c2f1ae0fc1.gif" alt="coffe" width="90%" height="30%"/></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhiramkg2000&label=Profile%20views&color=0e75b6&style=flat" alt="abhiramkg2000" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhiramkg2000&label=Profile%20views&color=0e75b6&style=flat" alt="abhiramkg2000" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
